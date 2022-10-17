@@ -1,4 +1,4 @@
-card:
+cards:
   msg: Welcome to the Cards Prod application
   build-version: 1
   mailDetails:
