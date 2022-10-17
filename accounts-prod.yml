@@ -1,6 +1,6 @@
 accounts:
   msg: Welcome to the Accounts Prod application
-  build-version: 1
+  build-version: 147
   mailDetails:
     hostName: prod-accounts@tworuszka.com
     port: 9010
