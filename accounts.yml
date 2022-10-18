@@ -1,5 +1,5 @@
 accounts:
-  msg: Welcome to the Accounts Default application
+  msg: {cipher}4e33eeee5b9939a704f19082684b982e831da93ab8950f33c68d507644f9d49e602d81beaf85fd5f5048eb528aa8e3f714a0241124c44b39ff5bb9a32afbf587
   build-version: 3
   mailDetails:
     hostName: default-accounts@tworuszka.com
