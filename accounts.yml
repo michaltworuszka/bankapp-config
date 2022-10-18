@@ -1,5 +1,5 @@
 accounts:
-  msg: {cipher}c7b77f77d2590d85b4b97d0b6f3db9a50f2a1e89b0397738b43fa469c2f43659868eea8c86e23a68d4e1c8d33790c923901aa9f1149834c1046c649f4da3aa11
+  msg: '{cipher}c7b77f77d2590d85b4b97d0b6f3db9a50f2a1e89b0397738b43fa469c2f43659868eea8c86e23a68d4e1c8d33790c923901aa9f1149834c1046c649f4da3aa11'
   build-version: 3
   mailDetails:
     hostName: default-accounts@tworuszka.com
